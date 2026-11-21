@@ -1,3 +1,4 @@
+# LIVE LINK: assignment-07-plum.vercel.app
 # ⚡ GridSync — Smart Electricity & Power Management System
 
 GridSync is a smart electricity management platform designed to improve power distribution management, load-shedding scheduling, and outage response. It connects customers, technicians, and administrators through a centralized system that makes electricity management more transparent, organized, and efficient.
